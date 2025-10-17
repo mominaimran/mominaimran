@@ -77,5 +77,5 @@ Currently diving deep into **backend architecture**, **API security**, and **rea
 
 ---
 
-<h3 align="center">💡 “Code is like art — every line should make sense and look good doing it.”</h3>
+<h3 align="center">💡 “Code is the bridge between imagination and reality.”</h3>
 
