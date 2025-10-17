@@ -10,7 +10,7 @@
 I’m a passionate **software developer** who loves turning real-world problems into scalable tech solutions.  
 Currently diving deep into **backend architecture**, **API security**, and **real-time communication systems**.
 
-- 🔭 **Ongoing Projects:** CMS Backend · Project Management Dashboard  
+- 🔭 **Ongoing Projects:** CMS Backend  
 - 🧠 **Currently Learning:** DevOps · Cloud Deployment (Railway / Vercel / AWS) · API Security  
 - ⚙️ **Focus Areas:** System Design · REST APIs · Database Optimization  
 - 🎯 **Goal (2025–26):** Build an internship-ready portfolio & start freelance products
