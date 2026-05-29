@@ -1,19 +1,16 @@
-<h1 align="center">Hi, I'm Momina 👋</h1>
-
 <p align="center">
-  <em>Full-Stack Developer (MERN & React Native) | CS Undergrad @ IIUI</em>
+  <em>Full-Stack Developer | CS Undergrad @ IIUI</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m a passionate **software developer** who loves turning real-world problems into scalable tech solutions.  
+Passionate **software developer** who loves turning real-world problems into scalable tech solutions.  
 Currently diving deep into **backend architecture**, **API security**, and **real-time communication systems**.
 
 - 🔭 **Ongoing Projects:** CMS Backend  
-- 🧠 **Currently Learning:** DevOps · Cloud Deployment (Railway / Vercel / AWS) · API Security  
+- 🧠 **Currently Learning:** DevOps · Cloud Deployment (Railway / Vercel / AWS) · Gen + Agentic AI
 - ⚙️ **Focus Areas:** System Design · REST APIs · Database Optimization  
-- 🎯 **Goal (2025–26):** Build an internship-ready portfolio & start freelance products
 
 > *“Clean code, clear logic, and creative solutions — that’s my vibe.”*
 
