@@ -8,7 +8,7 @@
 Passionate **software developer** who loves turning real-world problems into scalable tech solutions.  
 Currently diving deep into **backend architecture**, **API security**, and **real-time communication systems**.
 
-- 🔭 **Ongoing Projects:** CMS Backend  
+- 🔭 **Ongoing Projects:** Surviving Semesters 
 - 🧠 **Currently Learning:** DevOps · Cloud Deployment (Railway / Vercel / AWS) · Gen + Agentic AI
 - ⚙️ **Focus Areas:** System Design · REST APIs · Database Optimization  
 
@@ -66,10 +66,6 @@ Currently diving deep into **backend architecture**, **API security**, and **rea
   <a href="mailto:mominaimran957@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/momina-imran-783b49249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/mominaimran"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <em>✨ Open to collaborations, backend projects & freelance opportunities ✨</em>
 </p>
 
 ---
